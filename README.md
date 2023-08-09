@@ -1,9 +1,9 @@
 # Usable version of the OpenBook data platform
 
-## Problem Statement: A More Usable Version of the OpenBook Platform
+## Problem Statement
 The [OpenBook platform](https://openbook.sfgov.org/) serves as an essential tool in promoting transparency by providing access to data on Spending and Revenue, Workforce Demographics, Supplier Contracts, and more within San Francisco's government. Despite the richness of information, the platform's user interface is significantly lacking, making it challenging for citizens, researchers, and government employees to derive any insights. Building a better UI on top of the data, or even building scrapers for the data that allow it to be accessed in a simplified way, would be useful both in making government processes transparent for citizens, and also in allowing government employees to better do their jobs.
 
-### Focus areas:
+### Focus areas
 
 **Improving User Interface (UI):** The current UI is cumbersome and unintuitive, making it unusable. Designing a more intuitive UI would be helpful, or even creating an AI-powered analysis tool (something like OpenAI's Code Interpreter, but specifically for analyzing this data).
 
