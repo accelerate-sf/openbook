@@ -33,3 +33,5 @@ The platform contains data for the following categories:
 - Supplier Payments
 - Stale-Dated, Uncashed Checks
 
+## Example Hackathon Projects
+* https://devpost.com/software/open-book-iaj7yh
